@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <EditText
+            android:layout_width="128dp"
+            android:layout_height="100dp"
+            android:background="#da1c1c"/>
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <EditText
+                android:id="@+id/editText"
+                android:layout_width="128dp"
+                android:layout_height="50dp"
+                android:background="#3b3232" />
+
+            <EditText
+                android:layout_width="128dp"
+                android:layout_height="50dp"
+                android:background="#17e730"/>
+        </LinearLayout>
+        <EditText
+            android:layout_width="128dp"
+            android:layout_height="100dp"
+            android:background="#c79ada"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <EditText
+            android:layout_width="128dp"
+            android:layout_height="100dp"
+            android:background="#e608e6"/>
+        <EditText
+            android:layout_width="128dp"
+            android:layout_height="100dp"
+            android:background="#2d13d7"/>
+        <EditText
+            android:layout_width="128dp"
+            android:layout_height="100dp"
+            android:background="#eae281"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <EditText
+            android:layout_width="96dp"
+            android:layout_height="100dp"
+            android:background="#f5eb9e" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <EditText
+                android:layout_width="96dp"
+                android:layout_height="33.33dp"
+                android:background="#26d920" />
+
+            <EditText
+                android:layout_width="96dp"
+                android:layout_height="33.33dp"
+                android:background="#20201d" />
+
+            <EditText
+                android:layout_width="96dp"
+                android:layout_height="33.33dp"
+                android:background="#26d920" />
+        </LinearLayout>
+
+        <EditText
+            android:layout_width="96dp"
+            android:layout_height="100dp"
+            android:background="#f4443c" />
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <EditText
+                android:layout_width="96dp"
+                android:layout_height="33.33dp"
+                android:background="#11cc15" />
+            <EditText
+                android:layout_width="96dp"
+                android:layout_height="33.33dp"
+                android:background="#121312" />
+            <EditText
+                android:layout_width="96dp"
+                android:layout_height="33.33dp"
+                android:background="#11cc15" />
+        </LinearLayout>
+
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <EditText
+            android:layout_width="96dp"
+            android:layout_height="100dp"
+            android:background="#c11bd7"/>
+        <EditText
+            android:layout_width="96dp"
+            android:layout_height="100dp"
+            android:background="#2d13d7"/>
+        <EditText
+            android:layout_width="96dp"
+            android:layout_height="100dp"
+            android:background="#c11bd7"/>
+        <EditText
+            android:layout_width="96dp"
+            android:layout_height="100dp"
+            android:background="#2d13d7"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <EditText
+                android:layout_width="192dp"
+                android:layout_height="55dp"
+                android:background="#30835e" />
+            <EditText
+                android:layout_width="192dp"
+                android:layout_height="55dp"
+                android:background="#ec0a20" />
+
+        </LinearLayout>
+
+        <EditText
+            android:layout_width="96dp"
+            android:layout_height="110dp"
+            android:background="#96eae0" />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <EditText
+                android:id="@+id/editText2"
+                android:layout_width="96dp"
+                android:layout_height="55dp"
+                android:background="#e11161" />
+
+            <EditText
+                android:layout_width="96dp"
+                android:layout_height="55dp"
+                android:background="#81d415"/>
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

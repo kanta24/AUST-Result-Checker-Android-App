@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">AustResultCheckerNew</string>
+    <string name="button1">Teacher</string>
+    <string name="button2">Student</string>
+    <string name="button3">Login</string>
+    <string name="TextView1"> Username</string>
+    <string name="TextView2"> Password</string>
+    <string name="TextView3">Login</string>
+    <string name="title_activity_tec_login">Sign in</string>
+    <!-- Student Spinner -->
+    <string name="department_selection">Department  </string>
+    <string-array name="department_List">
+        <item>Select Your Dept</item>
+        <item>CSE</item>
+        <item>EEE</item>
+        <item>Civil</item>
+        <item>IPE</item> uhu ass
+        <item>ME</item>
+        <item>Architecture</item>
+    </string-array>
+    <string name="year_selection">Year</string>
+    <string-array name="year_list">
+        <item>Select Your Semester</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+</resources>
